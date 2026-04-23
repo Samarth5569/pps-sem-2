@@ -26,4 +26,5 @@ Write a recursive function sum_of_digits_recursive(n) that calculates the sum of
 ---
 
 ## Execution
-<img width="1917" height="901" alt="image" src="https://github.com/user-attachments/assets/7e448c3a-c4e9-45c9-ae85-2aa3cd455051" />
+<img width="1919" height="943" alt="image" src="https://github.com/user-attachments/assets/6531f7f7-3d4f-4d19-a9f0-bbb1cfc16e61" />
+
