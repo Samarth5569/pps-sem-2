@@ -37,7 +37,7 @@ Step 7: Stop
 ---
 
 ## Execution
-<img width="1918" height="948" alt="image" src="https://github.com/user-attachments/assets/6ac16d0a-dba0-49c9-8f36-444b16402b58" />
+<img width="1919" height="944" alt="image" src="https://github.com/user-attachments/assets/4175c53b-5b35-4fde-9c4d-4e8dd7aba959" />
 
 
 
