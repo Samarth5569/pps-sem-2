@@ -24,12 +24,13 @@ Write a Python program to manage a phone number database using a dictionary. The
 ---
 
 ## Flowchart
-![Flowchart](
-phone.drawio.png)
+<img width="859" height="990" alt="image" src="https://github.com/user-attachments/assets/119edff9-b7db-48fe-b5fc-ad25d4b4c4a0" />
+
 
 ---
 
 ## Execution
-<img width="1919" height="948" alt="image" src="https://github.com/user-attachments/assets/901bb3ce-e774-4b15-a873-9c06c0c6e45f" />
+<img width="1919" height="947" alt="image" src="https://github.com/user-attachments/assets/d4de74cc-228c-42ad-86e6-9a3e43db79c9" />
+
 
 
